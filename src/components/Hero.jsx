@@ -42,7 +42,15 @@ function Hero() {
           >
             Frontend Deveoper && Open Source Contributer
           </Text>
-          <Button mt={8} colorScheme="purple" onClick={() => window.open("")}>
+          <Button
+            mt={8}
+            colorScheme="purple"
+            onClick={() =>
+              window.open(
+                "https://drive.google.com/file/d/1cUfJmjghgknGvC1CJdKdHJHk6d9YiWcd/view"
+              )
+            }
+          >
             Resume
           </Button>
         </Box>
