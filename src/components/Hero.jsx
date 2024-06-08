@@ -40,14 +40,14 @@ function Hero() {
             fontWeight="semibold"
             color={isDark ? "gray.400" : "gray.700"}
           >
-            Frontend Deveoper && Open Source Contributer
+            Frontend Engineer && Open Source Contributer
           </Text>
           <Button
             mt={8}
             colorScheme="purple"
             onClick={() =>
               window.open(
-                "https://drive.google.com/file/d/1cUfJmjghgknGvC1CJdKdHJHk6d9YiWcd/view"
+                "https://drive.google.com/file/d/1mSrTwclBminntoS-UG0upWy_w5dhJxzU/view"
               )
             }
           >

@@ -2,7 +2,6 @@ import { Box, Flex, Heading, Text, useColorMode } from "@chakra-ui/react";
 import React from "react";
 
 const About = () => {
-
   const { colorMode } = useColorMode();
   const isDark = colorMode === "dark";
   return (
@@ -32,10 +31,10 @@ const About = () => {
           fontWeight="semibold"
           color={isDark ? "gray.400" : "gray.700"}
         >
-          I'm a self-taught Front end Developer. I passionately combine good
+          I'm a self-taught Frontend Engineer. I passionately combine good
           design, technology, and innovation in all my projects. My goal is to
-          build highly performing applications that solve real world problems
-          and provide users with an awesome experience.
+          build highly performant applications that solve real-world problems
+          and provide users with an exceptional experience.
         </Text>
       </Box>
     </Flex>
