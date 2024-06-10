@@ -18,9 +18,9 @@ const CardsContainer = () => {
       </Heading>
       <Grid
         templateColumns={{
-          base: "repeat(1, 1fr)", // 1 column for small screens
-          md: "repeat(2, 1fr)", // 2 columns for medium screens
-          lg: "repeat(3, 1fr)", // 3 columns for large screens
+          base: "repeat(1, 1fr)", 
+          md: "repeat(2, 1fr)",
+          lg: "repeat(3, 1fr)", 
         }}
         gap={6}
         justifyContent="center"
