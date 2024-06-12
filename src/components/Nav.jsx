@@ -32,19 +32,6 @@ const Nav = () => {
         alignItems="center"
         justifyContent="center"
       >
-        {/* <Spacer /> */}
-        {/* <IconButton
-          m="1"
-          icon={<FaLinkedin />}
-          isRound={true}
-          onClick={() => window.open("https://www.linkedin.com")}
-        />
-        <IconButton
-          m="1"
-          icon={<FaGithub />}
-          isRound={true}
-          onClick={() => window.open("https://www.github.com")}
-        /> */}
         <IconButton
           m="1"
           icon={isDark ? <FaSun /> : <FaMoon />}
