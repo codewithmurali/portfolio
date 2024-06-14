@@ -1,6 +1,5 @@
 import React from "react";
 import {
-  useMediaQuery,
   Flex,
   Box,
   Text,
