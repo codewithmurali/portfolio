@@ -24,7 +24,7 @@ const CardsContainer = () => {
         }}
         gap={6}
         justifyContent="center"
-        m="10"
+        m="8"
       >
         <CardLayout />
       </Grid>
