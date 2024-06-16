@@ -1,4 +1,3 @@
-import React from "react";
 import { HStack, IconButton } from "@chakra-ui/react";
 import { FaLinkedin, FaGithub } from "react-icons/fa";
 import { MdMailOutline } from "react-icons/md";

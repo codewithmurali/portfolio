@@ -1,11 +1,9 @@
 import {
   Flex,
   IconButton,
-  Spacer,
   useMediaQuery,
   VStack,
 } from "@chakra-ui/react";
-import React from "react";
 import { FaMoon, FaSun } from "react-icons/fa";
 import { useColorMode } from "@chakra-ui/color-mode";
 

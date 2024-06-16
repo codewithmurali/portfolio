@@ -1,5 +1,4 @@
 import { Box, Flex, Heading, Text, useColorMode } from "@chakra-ui/react";
-import React from "react";
 
 const About = () => {
   const { colorMode } = useColorMode();
@@ -25,17 +24,18 @@ const About = () => {
       </Box>
 
       <Box alignSelf="center" px="2" py="16">
-        <Text
+      <Text
           textAlign="center"
           fontSize="2xl"
           fontWeight="semibold"
           color={isDark ? "gray.400" : "gray.700"}
         >
-          I'm a self-taught Frontend Engineer. I passionately combine good
+          I&apos;m a self-taught Frontend Engineer. I passionately combine good
           design, technology, and innovation in all my projects. My goal is to
           build highly performant applications that solve real-world problems
           and provide users with an exceptional experience.
         </Text>
+
       </Box>
     </Flex>
   );

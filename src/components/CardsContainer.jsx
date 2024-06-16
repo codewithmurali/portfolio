@@ -1,5 +1,4 @@
-import { Flex, Heading, Grid, useMediaQuery } from "@chakra-ui/react";
-import React from "react";
+import {  Heading, Grid } from "@chakra-ui/react";
 import CardLayout from "./CardLayout";
 
 const CardsContainer = () => {
