@@ -44,7 +44,7 @@ const Profile = () => {
           size="2xl"
           textTransform="uppercase"
         >
-          Mastery & Expertise
+          Expertise
         </Heading>
       </Box>
 

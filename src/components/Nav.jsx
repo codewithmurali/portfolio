@@ -23,6 +23,7 @@ const Nav = () => {
       bottom={isNotSmallerScreen ? "auto" : "0"}
       top={isNotSmallerScreen ? "50%" : "auto"}
       transform={isNotSmallerScreen ? "translateY(-50%)" : "translateX(-50%)"}
+      zIndex={10}
     >
       <Flex
         w="auto"
