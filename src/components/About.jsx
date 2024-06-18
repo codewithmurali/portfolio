@@ -16,7 +16,7 @@ const About = () => {
           fontWeight="bold"
           bgGradient="linear(to-r, cyan.400, blue.500, purple.600)"
           bgClip="text"
-          size="1xl"
+          size="2xl"
           textTransform="uppercase"
         >
           About
