@@ -4,6 +4,7 @@ import codeeditor from "../assets/code-together.png";
 import youtube from "../assets/youtube-clone.png";
 import weather from "../assets/weather-app.png";
 import openSourceProject from "../assets/start-connect-hub.png";
+import decra from "../assets/decra.png"
 
 export const projects = [
   {
@@ -54,6 +55,18 @@ export const projects = [
     github: "", // Add the GitHub link here
     liveLink: "https://youtube-clone-vite.vercel.app/", // Add the live link here
   },
+  {
+    name: "DECRA",
+    image: decra, 
+    description: [
+      "Developed a comprehensive website for my department's national symposium using React.js.",
+      "Created and maintained a user-friendly, responsive interface to ensure optimal user experience.",
+      "Implemented various features and enhancements to meet the symposium's requirements."
+    ],
+    techStack: ["React JS"],
+    github: "https://github.com/yourusername/decra-project", // Replace with the actual GitHub link
+    liveLink: "https://decra-project.netlify.app/", // Replace with the actual live link
+  },  
   {
     name: "Weather App",
     image: weather, // Add the image URL here
