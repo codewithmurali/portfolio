@@ -15,8 +15,8 @@ export const projects = [
       "Resolved issues and implemented necessary corrections to enhance the website.",
     ],
     techStack: ["React JS"],
-    github: "https://github.com/Priyaaa1/StartConnect-Hub", // Add the GitHub link here
-    liveLink: "https://startconnect-hub.netlify.app/", // Add the live link here
+    github: "https://github.com/Priyaaa1/StartConnect-Hub", 
+    liveLink: "https://startconnect-hub.netlify.app/", 
   },
   {
     name: "Code Together",
