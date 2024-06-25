@@ -20,7 +20,7 @@ export const projects = [
   },
   {
     name: "Code Together",
-    image: codeeditor, // Add the image URL here
+    image: codeeditor, 
     description: [
       "Developed a web-based code editor featuring HTML, CSS, and JavaScript functionality using iframes with Socket IO.",
       "Ensured compatibility and responsiveness across various browsers and devices.",
