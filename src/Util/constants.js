@@ -28,11 +28,11 @@ export const projects = [
     ],
     techStack: ["React JS", "Node JS", "Socket IO"],
     github: "https://github.com/codewithmurali/code-together", 
-    liveLink: "", // Add the live link here
+    liveLink: "", 
   },
   {
     name: "Collab Canvas",
-    image: canvas, // Add the image URL here
+    image: canvas, 
     description: [
       "Developed a real-time collaborative drawing application using React.js and Socket.IO.",
       "Enabled multiple users to draw together on a shared canvas.",
