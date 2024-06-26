@@ -27,7 +27,7 @@ export const projects = [
       "Provided a user-friendly interface with syntax highlighting and code auto-completion feature.",
     ],
     techStack: ["React JS", "Node JS", "Socket IO"],
-    github: "https://github.com/codewithmurali/code-together", // Add the GitHub link here
+    github: "https://github.com/codewithmurali/code-together", 
     liveLink: "", // Add the live link here
   },
   {
