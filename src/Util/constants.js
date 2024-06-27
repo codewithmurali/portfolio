@@ -40,7 +40,7 @@ export const projects = [
       "Ensured a smooth and intuitive user experience by integrating drawing tools such as brush size, color, and line styles.",
     ],
     techStack: ["React JS", "Node JS", "Socket IO"],
-    github: "https://github.com/codewithmurali/collab-canvas", // Add the GitHub link here
+    github: "https://github.com/codewithmurali/collab-canvas", 
     liveLink: "", // Add the live link here
   },
   {
