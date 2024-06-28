@@ -45,7 +45,7 @@ export const projects = [
   },
   {
     name: "Youtube Clone",
-    image: youtube, // Add the image URL here
+    image: youtube, 
     description: [
       "Integrated Rapid API to fetch data seamlessly from YouTube's vast video library.",
       "Implemented a user-friendly interface that mimics YouTube's functionality.",
