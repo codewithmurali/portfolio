@@ -41,7 +41,7 @@ export const projects = [
     ],
     techStack: ["React JS", "Node JS", "Socket IO"],
     github: "https://github.com/codewithmurali/collab-canvas", 
-    liveLink: "", // Add the live link here
+    liveLink: "",
   },
   {
     name: "Youtube Clone",
