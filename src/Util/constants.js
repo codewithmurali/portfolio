@@ -52,7 +52,7 @@ export const projects = [
       "Ensured the application's responsiveness across various screen sizes and devices.",
     ],
     techStack: ["React JS", "MUI 5", "Rapid API"],
-    github: "", // Add the GitHub link here
+    github: "", 
     liveLink: "https://youtube-clone-vite.vercel.app/", // Add the live link here
   },
   {
