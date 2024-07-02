@@ -53,7 +53,7 @@ export const projects = [
     ],
     techStack: ["React JS", "MUI 5", "Rapid API"],
     github: "", 
-    liveLink: "https://youtube-clone-vite.vercel.app/", // Add the live link here
+    liveLink: "https://youtube-clone-vite.vercel.app/", 
   },
   {
     name: "DECRA",
