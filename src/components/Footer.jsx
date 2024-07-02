@@ -13,7 +13,7 @@ const Footer = () => {
       border="1"
       marginTop={1}
     >
-      Made with ❤️ by Muralikumar
+      ©  Muralikumar 2024
     </Box>
   );
 };
