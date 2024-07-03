@@ -64,7 +64,7 @@ export const projects = [
       "Implemented various features and enhancements to meet the symposium's requirements."
     ],
     techStack: ["React JS"],
-    github: "https://github.com/yourusername/decra-project", // Replace with the actual GitHub link
+    github: "https://github.com/yourusername/decra-project", 
     liveLink: "https://decra-project.netlify.app/", // Replace with the actual live link
   },  
   {
