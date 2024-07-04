@@ -65,7 +65,7 @@ export const projects = [
     ],
     techStack: ["React JS"],
     github: "https://github.com/yourusername/decra-project", 
-    liveLink: "https://decra-project.netlify.app/", // Replace with the 
+    liveLink: "https://decra-project.netlify.app/", // Replace 
   },  
   {
     name: "Weather App",
