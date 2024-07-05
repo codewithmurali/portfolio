@@ -75,7 +75,7 @@ export const projects = [
       "Integrated OpenWeatherMap API to retrieve real-time weather data for various locations.",
     ],
     techStack: ["React JS", "Open API"],
-    github: "", // Add 
+    github: "", 
     liveLink: "https://weather-app-vite-alpha.vercel.app/", // Add the live link here
   },
   {
