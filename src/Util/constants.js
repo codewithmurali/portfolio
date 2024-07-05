@@ -69,7 +69,7 @@ export const projects = [
   },  
   {
     name: "Weather App",
-    image: weather, // Add the image URL 
+    image: weather, 
     description: [
       "Developed a user-friendly interface that displays current weather conditions, forecasts, and additional weather details.",
       "Integrated OpenWeatherMap API to retrieve real-time weather data for various locations.",
