@@ -76,7 +76,7 @@ export const projects = [
     ],
     techStack: ["React JS", "Open API"],
     github: "", 
-    liveLink: "https://weather-app-vite-alpha.vercel.app/", // Add the live link here
+    liveLink: "https://weather-app-vite-alpha.vercel.app/", // Add the live link 
   },
   {
     name: "Calculator App",
