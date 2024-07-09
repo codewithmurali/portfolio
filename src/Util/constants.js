@@ -78,7 +78,7 @@ export const projects = [
     github: "", 
     liveLink: "https://weather-app-vite-alpha.vercel.app/", 
     name: "Calculator App",
-    image: calculator, // Add the image  
+    image: calculator, // Add the   
     description: [
       "Developed a robust calculator app using React JS and the Context API for streamlined and efficient state management.",
     ],
