@@ -83,7 +83,7 @@ export const projects = [
       "Developed a robust calculator app using React JS and the Context API for streamlined and efficient state management.",
     ],
     techStack: ["React JS", "Context API"],
-    github: "", // Add the GitHub link 
+    github: "", // Add the GitHub  
     liveLink: "https://calculator-vite.vercel.app/", // Add the live link here
   },
 ];
