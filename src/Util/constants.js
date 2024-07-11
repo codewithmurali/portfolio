@@ -84,6 +84,6 @@ export const projects = [
     ],
     techStack: ["React JS", "Context API"],
     github: "", 
-    liveLink: "https://calculator-vite.vercel.app/", // Add the live link here
+    liveLink: "https://calculator-vite.vercel.app/", // Add the live link
   },
 ];
