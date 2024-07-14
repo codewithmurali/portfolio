@@ -66,8 +66,21 @@ export const projects = [
     techStack: ["React JS"],
     github: "https://github.com/yourusername/decra-project", 
     liveLink: "https://decra-project.netlify.app/", 
-  },  {
+  }, 
+   {
     name: "Health-Remainder",
+    image: decra, 
+    description: [
+      "Developed a comprehensive website for my department's national symposium using React.js.",
+      "Created and maintained a user-friendly, responsive interface to ensure optimal user experience.",
+      "Implemented various features and enhancements to meet the symposium's requirements."
+    ],
+    techStack: ["HTML", "CSS", "JS", "Node JS"],
+    github: "https://github.com/yourusername/decra-project", 
+    liveLink: "https://decra-project.netlify.app/", 
+  },
+  {
+    name: "",
     image: decra, 
     description: [
       "Developed a comprehensive website for my department's national symposium using React.js.",
