@@ -87,7 +87,7 @@ export const projects = [
       "Created and maintained a user-friendly, responsive interface to ensure optimal user experience.",
       "Implemented various features and enhancements to meet the symposium's requirements."
     ],
-    techStack: ["React JS", "Node JS"],
+    techStack: ["React JS"],
     github: "https://github.com/yourusername/decra-project", 
     liveLink: "https://decra-project.netlify.app/", 
   },
