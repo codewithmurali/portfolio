@@ -12,13 +12,17 @@ import {
   DiCss3,
   DiHtml5,
 } from "react-icons/di";
-import { SiRedux, SiChakraui, SiTailwindcss, SiMui } from "react-icons/si";
+import { SiRedux, SiChakraui, SiTailwindcss, SiMui, SiTypescript, SiJest } from "react-icons/si";
+import { AiOutlineAppstore } from "react-icons/ai"; // Using a generic icon
 
 const Profile = () => {
   const skills = [
     { name: "React JS", icon: DiReact, color: "blue.400" },
     { name: "Redux", icon: SiRedux, color: "purple.500" },
     { name: "Javascript", icon: DiJavascript1, color: "yellow.500" },
+    { name: "TypeScript", icon: SiTypescript, color: "blue.600" },
+    { name: "Jest", icon: SiJest, color: "purple.600" },
+    { name: "React Testing Library", icon: AiOutlineAppstore, color: "red.600" }, // Generic icon
     { name: "SASS", icon: DiSass, color: "pink.400" },
     { name: "CSS", icon: DiCss3, color: "blue.500" },
     { name: "HTML", icon: DiHtml5, color: "orange.500" },
@@ -27,10 +31,9 @@ const Profile = () => {
     { name: "Material UI", icon: SiMui, color: "blue.700" },
   ];
 
-
   return (
     <Flex
-      direction= "column"
+      direction="column"
       w="100%"
       justifyContent="center"
       alignItems="center"
@@ -38,9 +41,9 @@ const Profile = () => {
     >
       <Box marginTop="16">
         <Heading
-           fontWeight="bold"
-           bgGradient="linear(to-r, cyan.400, blue.500, purple.600)"
-           bgClip="text"
+          fontWeight="bold"
+          bgGradient="linear(to-r, cyan.400, blue.500, purple.600)"
+          bgClip="text"
           size="2xl"
           textTransform="uppercase"
         >
