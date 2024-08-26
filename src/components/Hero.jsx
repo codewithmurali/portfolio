@@ -43,7 +43,7 @@ function Hero() {
             colorScheme="purple"
             onClick={() =>
               window.open(
-                "https://drive.google.com/file/d/18acrTCTzCFMakGTQNwc6EVe9cl1dETSG/view?usp=sharing"
+                "https://drive.google.com/file/d/1A09YWlmBGAEox1VZuH1wF6ZA7j_LbSFw/view?usp=sharing"
               )
             }
           >
